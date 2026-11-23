@@ -1,0 +1,51 @@
+Transaction_ID,Transaction_Date,Store_Location,City,State,Product,Category,Size,Unit_Price,Quantity,Total_Sales,Payment_Method,Daypart,Member,Delivery,City_Duplicate
+TX1001,1/3/2026,Downtown,Austin,Texas,Espresso,Beverage,Medium,3.5,2,7,Cash,Morning,Yes,Yes,Austin
+TX1002,1/4/2026,Riverside,Portland,Oregon,Latte,Beverage,Large,5.25,1,5.25,Credit Card,Morning,Yes,No,Portland
+TX1003,1/5/2026,Market St,San Francisco,California,Cold Brew,Beverage,Medium,4.75,2,9.5,credit card,Afternoon,Yes,Yes,San Francisco
+TX1004,1/6/2026,Midtown,New York,New York,Cappuccino,Beverage,Small,4,1,4,,Morning,No,Yes,New York
+TX1005,1/7/2026,Lakeview,Chicago,Illinois,Blueberry Muffin,Food,Large,3.25,3,9.75,Mobile Pay,Afternoon,Yes,No,Chicago
+TX1006,1/8/2026,Downtown,Seattle,Washington,Mocha,Beverage,Medium,5,1,5, credit card ,Evening,Yes,Yes,Seattle
+TX1007,1/9/2026,Old Town,Chicago,illinois,Americano,Beverage,Small,3,2,6,cash,Morning,No,Yes,Chicago
+TX1008,1/10/2026,Downtown,Denver,Colorado,Caramel Latte,Beverage,Large,5.5,1,5.5,Credit Card,Afternoon,Yes,No,Denver
+TX1009,1/11/2026,Uptown,,Texas,Croissant,Food,Medium,3.75,2,7.5,Mobile Pay,Morning,Yes,No,Dallas
+TX1010,1/12/2026,River North,Chicago,Illinois,Iced Latte,Beverage,Large,5,2,10,Credit Card,Afternoon,Yes,Yes,Chicago
+TX1011,1/13/2026,Downtown,Boston,Massachusetts,Tea,Beverage,Medium,3.25,2,6.5,Cash,Morning,No,Yes,Boston
+TX1012,1/14/2026,SoHo,new YORK,New York,Chocolate Cake,Food,Large,4.5,1,4.5,Credit Card,Evening,Yes,No,New York
+TX1013,1/15/2026,Capitol Hill,Seattle,Washington,Espresso,Beverage,Small,3,3,9,Mobile Pay,Morning,Yes,Yes,Seattle
+TX1014,1/16/2026,Downtown,Austin,Texas,Latte,Beverage,Large,5.25,2,10.5,credit card,Afternoon,Yes,No,Austin
+TX1015,1/17/2026,Pearl District,Portland,Oregon,Cappuccino,Beverage,Medium,4.5,1,4.5,Cash,Morning,No,Yes,Portland
+TX1016,1/18/2026,Downtown,San Francisco,California,,Beverage,Large,5.25,2,10.5,Mobile Pay,Afternoon,Yes,Yes,San Francisco
+TX1017,1/19/2026,Midtown,New York,New York,Bagel,Food,Medium,3.5,2,7,Credit Card,Morning,Yes,No,New York
+TX1018,1/20/2026,Downtown,Denver,Colorado,Mocha,Beverage,Large,5.5,1,5.5,CASH,Evening,No,Yes,Denver
+TX1019,1/21/2026,Uptown,Dallas,Texas,Americano,beverage,Medium,3.5,2,7,Credit Card,Morning,Yes,Yes,Dallas
+TX1020,1/22/2026,Lakeview,Chicago,Illinois,Cinnamon Roll,Food,Large,4,1,4,Mobile Pay,Afternoon,Yes,No,Chicago
+TX1021,1/23/2026,Downtown,Seattle,Washington,Caramel Latte,Beverage,Medium,5,2,10,Credit Card,Evening,No,Yes,Seattle
+TX1022,1/24/2026,Riverside,Portland,,Blueberry Muffin,Food,Small,3,2,6,Cash,Morning,Yes,No,Portland
+TX1023,1/25/2026,Market St,San Francisco,California,Iced Latte,Beverage,Large,5.25,1,5.25,Credit Card,Afternoon,Yes,Yes,San Francisco
+TX1024,1/26/2026,Downtown,Austin,Texas,Espresso,Beverage,Small,3,1,3,Mobile Pay,Morning,No,Yes,Austin
+TX1025,1/27/2026,SoHo,New York,New York,Croissant,Food,Medium,3.75,3,11.25,Credit Card,MORNING,Yes,No,New York
+TX1026,1/28/2026,Downtown,Boston,Massachusetts,Latte,Beverage,Large,5.25,2,10.5,cash,Afternoon,Yes,Yes,Boston
+TX1027,1/29/2026,Capitol Hill,Seattle,Washington,CAPPUCCINO,Beverage,Medium,4.5,1,4.5,Credit Card,Morning,No,Yes,Seattle
+TX1028,1/30/2026,Old Town,Chicago,Illinois,Chocolate Cake,Food,Large,4.5,2,9,Mobile Pay,Evening,Yes,No,Chicago
+TX1029,1/31/2026,Downtown,Denver,Colorado,Cold Brew,Beverage,Medium,4.75,2,9.5,Credit Card,Afternoon,Yes,Yes,Denver
+TX1030,2/1/2026,Uptown,Dallas,Texas,Mocha,Beverage,Large,5.5,1,5.5,Cash,Evening,No,Yes,Dallas
+TX1031,2/2/2026,Downtown,Austin,Texas,Bagel,Food,Medium,3.5,2,7,Credit Card,Morning,Yes,No,Austin
+TX1032,2/3/2026,Riverside,Portland,Oregon,Americano,Beverage,Small,3,,9,Mobile Pay,Morning,Yes,Yes,Portland
+TX1033,2/4/2026,Market St,San Francisco,California,Latte,Beverage,Large,5.25,2,10.5,Credit Card,Afternoon,Yes,No,San Francisco
+TX1034,2/5/2026,Midtown,New York,New York,Blueberry Muffin,Food,Medium,3.25,1,3.25,Cash,Morning,No,No,New York
+TX1035,2/6/2026,Downtown,Seattle,Washington,Iced Latte,Beverage,Large,5,2,10,Credit Card,Afternoon,Yes,Yes,Seattle
+TX1036,2/7/2026,Lakeview,Chicago,Illinois,Cinnamon Roll,Food,Large,4,2,8,Mobile Pay,Morning,Yes,No,Chicago
+TX1037,2/8/2026,Downtown,Denver,COLORADO,Espresso,Beverage,Small,3,2,6,Credit Card,Morning,No,Yes,Denver
+TX1038,2/9/2026,Uptown,Dallas,Texas,Caramel Latte,Beverage,Large,5.5,1,5.5,Cash,Evening,Yes,Yes,Dallas
+TX1039,2/10/2026,Downtown,Boston,Massachusetts,Croissant,Food,Medium,3.75,2,7.5,Mobile Pay,Morning,Yes,No,Boston
+TX1040,2/11/2026,Capitol Hill,Seattle,Washington,Mocha,Beverage,Large,5.5,2,11,Credit Card,Evening,,Yes,Seattle
+TX1041,2/12/2026,Old Town,Chicago,Illinois,Cold Brew,Beverage,Medium,4.75,1,4.75,cash,Afternoon,Yes,Yes,Chicago
+TX1042,2/13/2026,Downtown,Austin,Texas,Chocolate Cake,Food,Large,4.5,2,9,Credit Card,Evening,Yes,No,Austin
+TX1043,2/14/2026,Riverside,Portland,Oregon,Latte,Beverage,Medium,5.25,1,5.25,Mobile Pay,Morning,yes,Yes,Portland
+TX1044,2/15/2026,Market St,San Francisco,California,Americano,Beverage,Large,4,2,8,Credit Card,Afternoon,Yes,No,San Francisco
+TX1045,2/16/2026,  Downtown  ,New York,New York,Bagel,Food,Small,3,2,6,Cash,Morning,Yes,No,New York
+TX1046,2/17/2026,Downtown,Seattle,Washington,Cappuccino,Beverage,Medium,4.5,1,4.5,Credit Card,Morning,No,Yes,Seattle
+TX1047,2/18/2026,Downtown,Denver,Colorado,Blueberry Muffin,Food,Large,3.25,2,6.5,Mobile Pay,Afternoon,Yes,No,Denver
+TX1048,2/19/2026,Uptown,Dallas,Texas,Iced Latte,Beverage,Large,5,1,5,MOBILE PAY,Afternoon,Yes,Yes,Dallas
+TX1008,1/10/2026,Downtown,Denver,Colorado,Caramel Latte,Beverage,Large,5.5,1,5.5,Credit Card,Afternoon,Yes,No,Denver
+TX1020,1/22/2026,Lakeview,Chicago,Illinois,Cinnamon Roll,Food,Large,4,1,4,Mobile Pay,Afternoon,Yes,No,Chicago
